@@ -1,5 +1,5 @@
 <?
-
+//
 echo "i ma here";
 
 ?>
